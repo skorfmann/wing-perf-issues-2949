@@ -1,1 +1,1 @@
-Perf issues for wing - see issue
+Perf issues for wing - see issue https://github.com/winglang/wing/issues/2949
